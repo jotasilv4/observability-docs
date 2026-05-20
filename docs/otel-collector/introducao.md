@@ -1,1 +1,1 @@
-# Introdução ao Opentelemetry Collecto
+# Introdução ao Opentelemetry Collector
