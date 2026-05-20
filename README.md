@@ -4,4 +4,4 @@ Aqui estarei passando todos os meus aprendizados sobre observabilidade e por ond
 Vamos começar pelas metricas para configurar nosso ambiente, depois pelos logs e depois traces.
 ## Roadmap 
 - [**Mimir**](introduction.md)
-- t
+- 
